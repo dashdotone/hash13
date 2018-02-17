@@ -10,8 +10,8 @@ from datetime import datetime
 
 log_url = 'https://ringzer0team.com/login'
 ch_url = 'https://ringzer0team.com/challenges/13'
-uname = 'dashdotone'
-passwd = 'B3NzaC1yB3NzaC1y'
+uname = 'user'
+passwd = 'pass'
 
 cj = cookielib.CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
